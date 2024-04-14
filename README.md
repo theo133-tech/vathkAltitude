@@ -1,2 +1,4 @@
-# vathkAltitude
-A program that can check valid cruise level by entering the route.
+#Usage
+Simply copy the route from Euroscope and paste it to the program.
+
+This is a program that saves your time of looking to the cue card, hope this helps!!!
